@@ -1,0 +1,30 @@
+{
+  "name": "gelatinous-cube",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ertyseidohl/gelatinous-cube",
+  "authors": [
+    "Erty Seidohl <ertysdl+github@gmail.com>"
+  ],
+  "description": "Game",
+  "main": "index.html",
+  "keywords": [
+    "game"
+  ],
+  "license": "CC-BY-AT-NC",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "~2.1.19",
+    "bootstrap": "~3.3.5",
+    "jquery": "~2.1.4"
+  },
+  "devDependencies": {
+    "mocha": "~2.2.5",
+    "chai": "~3.2.0"
+  }
+}
